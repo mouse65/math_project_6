@@ -52,4 +52,8 @@
 -  README.md — описание проекта
 ## 🛠️ Технологический стек  
 Python • NumPy • Pandas • Scikit‑learn • Matplotlib  
-EfficientNet • OSNet • PCA • Jupyter Notebook
+EfficientNet • OSNet • PCA • Jupyter Notebook  
+
+
+https://github.com/mouse65/math_project_6
+
