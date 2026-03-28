@@ -51,5 +51,5 @@
 -  image_paths_with_kmeans_clusters.csv — результаты кластеризации
 -  README.md — описание проекта
 ## 🛠️ Технологический стек  
-Python • NumPy • Pandas • Scikit‑learn • Matplotlib
+Python • NumPy • Pandas • Scikit‑learn • Matplotlib  
 EfficientNet • OSNet • PCA • Jupyter Notebook
