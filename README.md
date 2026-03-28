@@ -56,5 +56,8 @@ EfficientNet • OSNet • PCA • Jupyter Notebook
 
 [`https://github.com/mouse65/math_project_6`](https://github.com/mouse65/math_project_6)
 
-https://github.com/mouse65/math_project_6
+https://github.com/mouse65/math_project_6  
+[Смотреть проект](https://github.com/mouse65/math_project_6)
+🔗 [Проект на GitHub](https://github.com/mouse65/math_project_6)
+
 
