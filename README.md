@@ -54,7 +54,7 @@
 Python • NumPy • Pandas • Scikit‑learn • Matplotlib  
 EfficientNet • OSNet • PCA • Jupyter Notebook  
 
-🔗 Ссылка на проект
+## 🔗 Ссылка на проект
 👉 [Проект на GitHub](https://github.com/mouse65/math_project_6)
 
 
