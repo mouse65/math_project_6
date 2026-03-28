@@ -50,3 +50,7 @@
 -  PROJECT-6_final.ipynb — основной ноутбук с полным ходом исследования
 -  image_paths_with_kmeans_clusters.csv — результаты кластеризации
 -  README.md — описание проекта
+<p style="background-color: #fff3b0; padding: 6px; border-radius: 4px;">
+Это строка с жёлтым фоном
+</p>
+
