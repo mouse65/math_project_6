@@ -10,20 +10,20 @@
 ## 🧠 Использованные методы
 
 - Алгоритмы кластеризации:
-  - KMeans
-  - Birch
-  - AgglomerativeClustering
-  - DBSCAN (для поиска выбросов)
+  - **KMeans**
+  - **Birch**
+  - **AgglomerativeClustering**
+  - **DBSCAN** (для поиска выбросов)
 
 - Метрики оценки качества:
-  - Calinski-Harabasz Index
-  - Davies-Bouldin Index
+  - **Calinski-Harabasz Index**
+  - **Davies-Bouldin Index**
 
 - Предобработка данных:
-  - StandardScaler
-  - MinMaxScale
-  - RobustSkaler
-  - PCA (для снижения размерности)
+  - **StandardScaler**
+  - **MinMaxScale**
+  - **RobustSkaler**
+  - **PCA** (для снижения размерности)
 
 ## 📊 Дескрипторы изображений
 
